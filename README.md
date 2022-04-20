@@ -11,3 +11,5 @@
     - localhost:8000 => server web
     - localhost:8080 => phpMyAdmin (server: test_mysql , root, root)
     - localhost:8081 => mysql
+
+source: https://github.com/jegali/docker-nginx-mysql-php-phpmyadmin
